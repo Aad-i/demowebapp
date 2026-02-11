@@ -12,7 +12,7 @@
            class="img-responsive center-block" style="width:250px"/>
       <h1 class="text-center">My job is done with jenkins</h1>
       <h2 class="text-center">Welcome Aadi on behalf of DevOps Academy</h2>
-      <h4 class="text-center">investments are subject to market risks.</h34
+      <h4 class="text-center">investments are subject to market risks.</h4>
       
 <center><img src="http://www.infinitotek.com/wp-content/uploads/2018/02/dev-ops-header-1.jpg" width=50% hight=50%>
  </center> </div>
